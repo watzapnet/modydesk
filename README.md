@@ -6,7 +6,7 @@ ModyDesk is a peer-to-peer remote desktop application for Windows.
 
 Get the latest binary from the [Releases page](https://github.com/watzapnet/modydesk/releases/latest):
 
-1. Download `modydesk-app.exe` from the latest release.
+1. Download `modydesk.exe` from the latest release.
 2. Run it. No installer, no admin rights required.
 3. Share your 9-digit ID with the other side, or paste theirs to connect.
 
